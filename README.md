@@ -4,9 +4,9 @@
 An interactive Power BI dashboard exploring survey responses from data professionals. The dashboard presents insights into salaries, job roles, programming language preferences, and workplace satisfaction.
 
 ## Tools Used
-- **Power BI** — Dashboard development and data visualization
-- **DAX** — Measures and calculations
-- **Power Query** — Data preparation and transformation
+- **Power BI Desktop** — Building the dashboard and visualizations
+- **Power Query** — Following data preparation and transformation steps from the guided tutorial
+- **DAX** — Creating measures to count total survey responses and career switchers
 
 ## Dashboard Features
 - Country-wise distribution of survey respondents
@@ -19,7 +19,6 @@ An interactive Power BI dashboard exploring survey responses from data professio
 ## Key Observations
 - The dashboard summarizes **630 survey responses**.
 - **372 respondents** are counted as career switchers based on the dashboard measure.
-- Python is the most prominent programming language in the displayed preference chart.
 - The dashboard compares average salary across job positions and genders.
 
 ## What I Learned
